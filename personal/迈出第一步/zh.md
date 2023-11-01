@@ -1,7 +1,5 @@
 ---
-title:
-  ch: 迈出第一步
-  en: First Step
+title: 迈出第一步
 date: 1698761078
 tags: "[生活] [代码] [里程碑]""
 author: TalexDS
