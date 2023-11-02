@@ -3,7 +3,7 @@ title: Step Forward
 date: 1698893412
 tags: [Life] [Coding] [MillionStone] [Informal Essay]
 author: TalexDS
-ai_generated: true
+ai_generated: verified
 ---
 
 # Preface
@@ -20,7 +20,8 @@ To be honest, my initial exposure to programming was around 2011. Back then, I k
 
 As I progressed to the third year of school, a classmate recommended that I play Minecraft. This can be considered the beginning of my coding journey, as I met many experts in the field through this game.
 
-Why I Chose Front-end Development
+## Why I Chose Front-end Development
+
 Now, let me talk about my journey with programming languages.
 
 It's a bit more complicated, to be honest. When I first started, I was introduced to a programming language called "Easy Language." At the time, my English wasn't very good, but as soon as I saw a programming language in Chinese, I became immediately interested. I still believe that the graphical user interface of Easy Language has a timeless quality and gives a sense of being ahead of its time.
