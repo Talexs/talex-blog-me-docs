@@ -1,7 +1,7 @@
 ---
 title: Step Forward
 date: 1698893412
-tags: [Life] [Coding] [MillionStone] [Informal Essay]
+tags: [Life] [Coding] [MileStone] [Informal Essay]
 author: TalexDS
 ai_generated: verified
 ---
@@ -110,7 +110,7 @@ The main goal is to travel to various places, as I've missed out on traveling a 
 
 I hope to participate in various conferences as well. Fingers crossed!
 
-Other goals include achieving some milestone achievements, such as attending the Google I/O conference and the WWDC conference. I'd like to win some awards, which would be a way to compensate for my life up until now. Besides a few elementary school awards, I haven't achieved anything significant.
+Other goals include achieving some milestone achievements, such as attending the Google I/O conference and the WWDC. I'd like to win some awards, which would be a way to compensate for my life up until now. Besides a few elementary school awards, I haven't achieved anything significant.
 
 In the end, I hope to graduate and find a job at a major company. I hope a major company will recognize my potential.
 
