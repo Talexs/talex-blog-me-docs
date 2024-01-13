@@ -48,7 +48,7 @@ In this blog, I intend to document algorithms I have recently acquired knowledge
 
 > While uncertainty shrouds the completion of this article, one certainty prevails—I am committed to refining it continuously!
 
-All articles will initially be written in English and may later be translated into Chinese.
+All articles will initially be written in Chinese and may later be translated into English or not.
 
 # Support
 
