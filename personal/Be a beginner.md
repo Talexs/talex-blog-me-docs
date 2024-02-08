@@ -28,7 +28,7 @@ This article is written many by me and be prettied by auto-completion.
 
 - Learn at least one another language.
 
-My goal is to learn `Golang` and I have been work on it for many times. Will, I prepared for it.
+My goal is to learn `Golang` and I have been work on it for many times. Well, I prepared for it.
 
 - Practice my English writing skills.
 
