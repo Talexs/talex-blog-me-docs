@@ -46,6 +46,10 @@ Besides, I'd like to program an newer `MARKDOWN EDITOR` than ever instead of con
 
 Because of others are not satisfied for my own personal reasons.
 
+By the way: I'm learning to play piano and I've bought a new piano. It's really nice.
+
+AND, in this year **JUNE**, I'm going to the concert of **Gloria** in ChengDu. HOPE EVERYTHING GOES WELL.
+
 ## Conclusion
 
 Today is 2024/02/08, I'm going to fill my challenges step by step.
